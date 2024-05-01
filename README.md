@@ -112,3 +112,9 @@ To deploy your function, refer to the official documentation for [deploying usin
 # Event Integrations
 
 The [event models](https://github.com/aws/aws-lambda-go/tree/master/events) can be used to model AWS event sources. The official documentation has [detailed walkthroughs](https://docs.aws.amazon.com/lambda/latest/dg/use-cases.html).
+
+
+
+
+#### AWS lambda
+-- [logger](https://github.com/uber-go/zap)
